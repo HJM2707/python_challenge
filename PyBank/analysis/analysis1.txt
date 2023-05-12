@@ -1,3 +1,0 @@
-import os
-import csv
-filepath = os.path.join('.', 'resources1', 'budget_data.csv')
